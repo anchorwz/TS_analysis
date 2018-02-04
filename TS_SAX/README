@@ -1,0 +1,9 @@
+The GUI here is based on the PyQt4 packages:
+
+Usage:
+
+	1. Set up the SAX parameter with the spinable field
+	2. Click run button, when the program finish a file selection window will pop up. 
+	   Please choose the file named 'TS.csv'.
+	3. SAX result file can be loaded with the click of 'Open SAX result' button.
+	   Please load with the file named 'file.txt'. Result can be checked in the panel below the button.
